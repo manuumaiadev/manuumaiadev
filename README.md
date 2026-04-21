@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou a Manuella! 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedora Front-End</b> · Cabedelo, PB · Inglês avançado
+  <b>Desenvolvedora Front-End</b> · Curitiba, PR · Inglês avançado
 </p>
 
 <p align="center">
