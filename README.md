@@ -45,10 +45,10 @@ Atualmente aprofundando conhecimentos em Node.js e Frameworks front-end.
 
 ## Projetos
 
-### 🔧 [Sistema Hidraul Diesel](https://github.com/manuumaiadev/sistema-hidrauldiesel)
+### 🔧 [Sistema Hidrauldiesel](https://github.com/manuumaiadev/sistema-hidrauldiesel)
 Sistema web completo de gestão para oficina mecânica — ordens de serviço, cadastro de clientes, controle de estoque, serviços e comissionamento, com integração ao Bling ERP. Projeto real, em uso.
 
-### 🌐 [Site Hidraul Diesel](https://github.com/manuumaiadev/sitehidrauldiesel)
+### 🌐 [Site Hidrauldiesel](https://github.com/manuumaiadev/sitehidrauldiesel)
 Site institucional para empresa mecânica, desenvolvido com HTML e CSS responsivo. Foco em apresentação de serviços e captação de clientes.
 
 ### 🦷 Site Renova Odontologia
@@ -71,7 +71,7 @@ Aplicação de gerenciamento de tarefas desenvolvida em Java na disciplina de Li
 ## Atualmente
 
 - 📚 Estudando **Node.js** e **Frameworks front-end**
-- 🛠️ Construindo meu portfólio em [manuella.dev](#) *(em breve)*
+- 🛠️ Construindo meu portfólio em [manuumaia.dev](#) *(em breve)*
 - 🎯 Buscando minha primeira vaga como **desenvolvedora júnior**
 
 ---
