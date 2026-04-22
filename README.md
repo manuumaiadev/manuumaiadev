@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou a Manuella! 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedora Front-End</b> · Curitiba, PR · Inglês avançado
+  <b>Desenvolvedora Front-End</b> · Cabedelo, PB · Inglês avançado
 </p>
 
 <p align="center">
@@ -20,11 +20,11 @@
 
 ## Sobre mim
 
-Sou desenvolvedora front-end com background em gestão financeira e marketing digital — o que me dá uma visão prática de negócios que vai além do código.
+Sou desenvolvedora front-end com background em gestão empresarial, financeira, marketing digital e operacional — o que me dá uma visão de negócio que vai além do código.
 
-Migrei para a tecnologia com propósito: construo interfaces pensando tanto na experiência do usuário quanto nos resultados que o cliente precisa. Já entreguei projetos reais para clínicas, empresas mecânicas e e-commerces, e sigo evoluindo com foco em conseguir minha primeira vaga como desenvolvedora júnior.
+Antes de entrar para a tecnologia, passei por diferentes frentes: gestão financeira, administração, marketing digital e atendimento ao público. Essa bagagem me ensinou a entender pessoas, processos e resultados — e hoje aplico tudo isso na forma como construo interfaces e sistemas. Atuo como analista de processos e sistemas na Hidrauldiesel, onde também desenvolvo o site institucional e o sistema ERP da empresa — o que me coloca no lado de quem constrói e de quem usa ao mesmo tempo.
 
-Atualmente aprofundando conhecimentos em Node.js e Frameworks front-end.
+Estou em busca da minha primeira vaga como desenvolvedora júnior, onde possa crescer dentro de um time e transformar esse background em entregas com impacto real.
 
 ---
 
@@ -46,16 +46,16 @@ Atualmente aprofundando conhecimentos em Node.js e Frameworks front-end.
 ## Projetos
 
 ### 🔧 [Sistema Hidrauldiesel](https://github.com/manuumaiadev/sistema-hidrauldiesel)
-Sistema web completo de gestão para oficina mecânica — ordens de serviço, cadastro de clientes, controle de estoque, serviços e comissionamento, com integração ao Bling ERP. Projeto real, em uso.
+Sistema web de gestão para oficina mecânica — ordens de serviço, cadastro de clientes, controle de estoque, serviços e comissionamento, com integração ao Bling ERP. Em desenvolvimento e finalização.
 
 ### 🌐 [Site Hidrauldiesel](https://github.com/manuumaiadev/sitehidrauldiesel)
-Site institucional para empresa mecânica, desenvolvido com HTML e CSS responsivo. Foco em apresentação de serviços e captação de clientes.
+Site institucional para empresa mecânica, desenvolvido com HTML e CSS responsivo. Em fase de finalização para publicação.
 
-### 🦷 Site Renova Odontologia
-Site desenvolvido para a Clínica Renova Odontologia Especializada — HTML, CSS e JavaScript. Projeto com identidade visual própria, responsivo e focado na conversão de pacientes.
+### 🦷 [Site Renova Odontologia](https://github.com/manuumaiadev/site-renovaodonto)
+Site desenvolvido para clínica odontológica — HTML, CSS e JavaScript. Design moderno com identidade visual da marca, responsivo e focado na experiência do paciente.
 
 ### 🐍 [Loja de Produtos Tech](https://github.com/manuumaiadev/loja_produtos_tech)
-Sistema em Python com cadastro de clientes, vendedores e produtos, controle de estoque e registro de vendas. Desenvolvido na disciplina de Introdução à Programação.
+Sistema em Python com cadastro de clientes, vendedores e produtos, controle de estoque e registro de vendas.
 
 ### ⛵ [Loja de Iates](https://github.com/manuumaiadev/lojaDeIates)
 Site de apresentação e venda de iates com layout moderno em HTML e CSS. Projeto de avaliação da disciplina Front-end I.
@@ -70,8 +70,9 @@ Aplicação de gerenciamento de tarefas desenvolvida em Java na disciplina de Li
 
 ## Atualmente
 
+- 💼 Analista de processos e sistemas na **Hidrauldiesel**
 - 📚 Estudando **Node.js** e **Frameworks front-end**
-- 🛠️ Construindo meu portfólio em [manuumaia.dev](#) *(em breve)*
+- 🛠️ Finalizando site e sistema ERP da Hidrauldiesel
 - 🎯 Buscando minha primeira vaga como **desenvolvedora júnior**
 
 ---
