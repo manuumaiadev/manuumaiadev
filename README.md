@@ -48,6 +48,9 @@ Estou em busca da minha primeira vaga como desenvolvedora júnior, onde possa cr
 
 ## Projetos
 
+### 💼 [Portfólio Pessoal](https://github.com/manuumaiadev/portfolio)
+Portfólio profissional desenvolvido do zero com React + Vite e CSS puro. Apresenta projetos reais, habilidades técnicas e processo de trabalho, com typing animation, parallax, carrossel de depoimentos e FAQ animado.
+
 ### 🔧 [Sistema Hidrauldiesel](https://github.com/manuumaiadev/sistema-hidrauldiesel)
 Sistema web de gestão para oficina mecânica — ordens de serviço, cadastro de clientes, controle de estoque, serviços e comissionamento, com integração ao Bling ERP. Em desenvolvimento e finalização.
 
