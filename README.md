@@ -20,9 +20,12 @@
 
 ## Sobre mim
 
-Sou desenvolvedora front-end com background em gestão empresarial, financeira, marketing digital e operacional — o que me dá uma visão de negócio que vai além do código.
+Sou desenvolvedora front-end focada em criar interfaces que fazem sentido para quem usa, não só para quem constrói. Trabalho com HTML, CSS, JavaScript, React e Python, e tenho experiência real desenvolvendo um sistema ERP e um site institucional do zero, em produção, para uma empresa de verdade.
 
-Antes de entrar para a tecnologia, passei por diferentes frentes: gestão financeira, administração, marketing digital e atendimento ao público. Essa bagagem me ensinou a entender pessoas, processos e resultados — e hoje aplico tudo isso na forma como construo interfaces e sistemas. Atuo como analista de processos e sistemas na Hidrauldiesel, onde também desenvolvo o site institucional e o sistema ERP da empresa — o que me coloca no lado de quem constrói e de quem usa ao mesmo tempo.
+Mas minha trajetória não começou no código. Antes de entrar para a tecnologia, passei por gestão financeira, administração, marketing digital e atendimento ao público. Aprendi a entender pessoas, mapear processos e 
+pensar em soluções antes de partir para a execução, e isso tudo eu trago comigo quando escrevo código.
+
+Hoje atuo como analista de processos e sistemas na Hidrauldiesel, o que me coloca ao mesmo tempo no papel de quem desenvolve e de quem usa o sistema. Isso me torna mais criteriosa e prática no que entrego.
 
 Estou em busca da minha primeira vaga como desenvolvedora júnior, onde possa crescer dentro de um time e transformar esse background em entregas com impacto real.
 
