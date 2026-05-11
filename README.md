@@ -86,10 +86,6 @@ Aplicação de gerenciamento de tarefas desenvolvida em Java na disciplina de Li
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manuumaiadev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuumaiadev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=1800" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=manuumaiadev&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
 
